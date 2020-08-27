@@ -1,3 +1,5 @@
+Link to the app: "https://covid-tracker-e9393.web.app/"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
